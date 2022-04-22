@@ -1,0 +1,15 @@
+{
+	"miniprogramRoot": "miniprogram/miniprogram/",
+	"pluginRoot": "miniprogram/plugin/",
+	"compileType": "plugin",
+	"appid": "touristappid",
+	"projectname": "taroAlipayPluginDemo",
+	"description": "支付宝插件demo",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	}
+}

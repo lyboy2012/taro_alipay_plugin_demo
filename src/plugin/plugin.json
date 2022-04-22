@@ -1,0 +1,9 @@
+{
+  "publicPages": {
+    "list": "pages/list/list"
+  },
+  "pages": {
+    "list": "pages/list/list"
+  },
+  "main": "index.ts"
+}
